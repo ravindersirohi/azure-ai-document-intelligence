@@ -1,4 +1,4 @@
-# azure-ai-document-intelligence
+# Azure AI Document Intelligence
 Function app integrated with Azure AI Document Intelligence service to read legar documents.
 
 ## About
@@ -7,7 +7,7 @@ Azure function app (http trigger) to post documents (pdf, jpg, jpeg, bmp, png, d
 
 ## Setup Document Intelligence Service in Azrue.
 
-Setup [Document Intelligence resource](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/create-document-intelligence-resource) manually via the Azure Portal, and polpulated the Local setting files with "Key" and "endpoint", for the PoC you can use Free tier.
+Setup [Document Intelligence resource](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/create-document-intelligence-resource) manually via the Azure Portal (in West Europe zone), and polpulated the Local settings with "Key" and "endpoint", for the PoC you can use Free tier.
 
 Function app local setting file.
 
